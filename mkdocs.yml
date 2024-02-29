@@ -1,6 +1,13 @@
-site_name: JLabs OEMS Documentation
+site_name: Documentation
+extra_css:
+  - stylesheets/extra.css
+extra:
+  generator: false
 theme:
+  favicon: assets/images/favicon.png
+  logo: assets/logo.svg
   name: material
+
   features:
     - navigation.tabs
     - navigation.sections
@@ -13,16 +20,6 @@ theme:
     - content.code.copy
   language: en
   palette:
-    - scheme: default
-      toggle:
-        icon: material/toggle-switch-off-outline 
-        name: Switch to dark mode
-      primary: teal
-      accent: purple 
-    - scheme: slate 
-      toggle:
-        icon: material/toggle-switch
-        name: Switch to light mode    
-      primary: teal
-      accent: lime
+      primary: stylesheets/extra.css
+
 
