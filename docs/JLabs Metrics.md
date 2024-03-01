@@ -50,6 +50,8 @@ Slippage in trading refers to the difference between the anticipated and actual 
 
 `BTCUSDT,ETHUSDT,MATICUSDT,LINKUSDT,BNBUSDT,XRPUSDT,LDOUSDT,ADAUSDT,DOGEUSDT,SOLUSDT,LTCUSDT,DOTUSDT,AVAXUSDT,UNIUSDT,ATOMUSDT,FILUSDT,APTUSDT,ARBUSDT,VETUSDT,APEUSDT,AAVEUSDT,OPUSDT,FTMUSDT,THETAUSDT,AXSUSDT,CRVUSDT,MKRUSDT,GMXUSDT`
 
+You can find for both spot and perps. But the metric is actually calculated for perps.
+
 **Timeframe**
 
 Hourly chart (The metric is computed hourly and so depending on your time zone you might find the metric not displayed for the last (sometimes two) hour.)
@@ -62,7 +64,9 @@ Price Equilibrium is observed when high trade volumes don't impact the price, in
 
 **Available Symbols**
 
-`BTCUSDT,ETHUSDT`
+`General Metric, Independent of symbols.`
+
+You can get it for any symbol. Both in spot and perps
 
 **Timeframe**
 
@@ -78,6 +82,8 @@ DXY Risk is a metric to get a risk score BTC and ETH to predict price action dep
 
 `BTCUSDT,ETHUSDT,MATICUSDT,LINKUSDT,BNBUSDT,XRPUSDT,LDOUSDT,ADAUSDT,DOGEUSDT,SOLUSDT,LTCUSDT,DOTUSDT,AVAXUSDT,UNIUSDT,ATOMUSDT,FILUSDT,APTUSDT,ARBUSDT,VETUSDT,APEUSDT,AAVEUSDT,OPUSDT,FTMUSDT,THETAUSDT,AXSUSDT,CRVUSDT,MKRUSDT,GMXUSDT`
 
+You can find for both spot and perps. But the metric is actually calculated for perps.
+
 **Timeframe**
 
 Daily chart.
@@ -92,6 +98,8 @@ Price Strength metric is to score the symbols in a scale of 10 where minimum den
 
 `BTCUSDT,ETHUSDT`
 
+You can find for both spot and perps.
+
 **Timeframe**
 
 Daily chart.
@@ -105,6 +113,8 @@ CARI is a metric to denote price reversion signals.
 **Available Symbols**
 
 `BTCUSDT,ETHUSDT,MATICUSDT,LINKUSDT,BNBUSDT,XRPUSDT,LDOUSDT,ADAUSDT,DOGEUSDT,SOLUSDT,LTCUSDT,DOTUSDT,AVAXUSDT,UNIUSDT,ATOMUSDT,FILUSDT,APTUSDT,ARBUSDT,VETUSDT,APEUSDT,AAVEUSDT,OPUSDT,FTMUSDT,THETAUSDT,AXSUSDT,CRVUSDT,MKRUSDT,GMXUSDT`
+
+You can find for both spot and perps. But the metric is actually calculated for perps.
 
 **Timeframe**
 
