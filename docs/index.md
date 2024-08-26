@@ -63,7 +63,7 @@ Note: You must enable 2FA to be able to add API keys
 
 **5. Select connect to Third-Party Applications, and search for PANDA Terminal in the drop-down.**
 
-Note: Note: Please select Read-Write, and grant all permissions to the API Key.
+Note: Please select Read-Write, and grant all permissions to the API Key.
 
 ![alt text](assets/images/tutorial3.png)
 
