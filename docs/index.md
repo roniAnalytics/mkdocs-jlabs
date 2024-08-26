@@ -67,10 +67,6 @@ Note: Please select Read-Write, and grant all permissions to the API Key.
 
 ![alt text](assets/images/tutorial3.png)
 
-Select all fields apart from the NFT product
-
-![alt text](assets/images/tutorial4.png)
-
 
 **6. Enter your 2FA code and confirm. Copy your API Key and Secret Key**
 
