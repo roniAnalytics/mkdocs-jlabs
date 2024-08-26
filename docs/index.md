@@ -61,9 +61,9 @@ Note: You must enable 2FA to be able to add API keys
 
 ![alt text](assets/images/tutorial2.png)
 
-**5. Select API Transaction, input your desired API Key name (e.g. Jarvis)**
+**5. Select connect to Third-Party Applications, and search for PANDA Terminal in the drop-down.**
 
-Note: Please check off Read-Write, and no IP restriction as shown in the image below.
+Note: Note: Please select Read-Write, and grant all permissions to the API Key.
 
 ![alt text](assets/images/tutorial3.png)
 
